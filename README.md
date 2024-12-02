@@ -138,4 +138,4 @@ Manages styles such as fonts and colors used in the application.
 ---
 
 ## **Authors**
-Developed by **Uzair Ali** and **Rehman**.
+Developed by **Uzair Ali** and **Abdul Rehman**.
