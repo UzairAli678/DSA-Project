@@ -1,5 +1,4 @@
 # DSA-Project Documentation
- 
 
 # **Text Summarizer Project**
 This project is a GUI-based **Text Summarizer** application written in Java. It provides an intuitive user interface for inputting text and generating concise summaries. The application also displays word counts for both the input text and the generated summary.
